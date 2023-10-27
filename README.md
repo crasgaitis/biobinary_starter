@@ -1,7 +1,7 @@
 ## BioBinary
 This is your starter code for the BioBinary project!
 
-Here's the agenda for today, 10/17.
+Here's the agenda for today, 10/27.
 
 1. Treasurer announcements!
 2. Run a hyperparameter search by yourself.
